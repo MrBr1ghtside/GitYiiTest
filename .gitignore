@@ -1,0 +1,9 @@
+/config/
+/tests/
+/vagrant/
+/vendor/
+/web/
+/views/site/
+/widgets/Alert.php
+/commands/HelloController.php
+/assets/AppAsset.php
